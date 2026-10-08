@@ -20,5 +20,16 @@
     "status": "success",
     "is_duplicate": true,
     "redirect_target": "https://itemtier.com/notion-vs-obsidian/"
+  },
+  {
+    "index": 2,
+    "id": 458,
+    "slug": "ahrefs-vs-semrush",
+    "title": "Ahrefs vs Semrush: Which SEO Suite Wins in 2026?",
+    "primary_keyword": "ahrefs vs semrush",
+    "updated_at": "2026-10-08T15:09:56.188724",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

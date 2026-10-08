@@ -141,5 +141,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 14,
+    "id": 447,
+    "slug": "chatgpt-plus-vs-claude-pro",
+    "title": "ChatGPT Plus vs Claude Pro: Which $20 AI Subscription Wins?",
+    "primary_keyword": "chatgpt plus vs claude pro",
+    "updated_at": "2026-10-08T21:48:34.484206",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

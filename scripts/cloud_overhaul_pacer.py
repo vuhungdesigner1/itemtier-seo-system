@@ -94,7 +94,30 @@ def main():
     except Exception as e:
         print(f"Fast Indexing warning for {slug}: {e}")
 
-    # 4. Log Success
+    # 4. Dispatch Multi-Channel Social Signals to Make.com Webhook
+    try:
+        make_webhook_url = os.environ.get("MAKE_WEBHOOK_URL", "https://hook.us2.make.com/keewotj47um2768uh6qpnhisqu2cupjk")
+        make_payload = {
+            "event": "legacy_overhaul_published",
+            "post_id": post_id,
+            "title": next_post["title"],
+            "url": f"https://itemtier.com/{slug}/",
+            "primary_keyword": next_post["primary_keyword"],
+            "twitter": {
+                "tweet_text": f"Fresh 2026 Tier List & Comparison: {next_post['title']} — See our lab benchmarks and ranking: https://itemtier.com/{slug}/",
+                "tweet_link": f"https://itemtier.com/{slug}/"
+            },
+            "reddit": {
+                "title": f"[Comparison] {next_post['title']}",
+                "body": f"We just updated our 2026 benchmarks for {next_post['title']}. Read the breakdown here: https://itemtier.com/{slug}/"
+            }
+        }
+        requests.post(make_webhook_url, json=make_payload, timeout=10)
+        print(f"Social Signal dispatched to Make.com for {slug}!")
+    except Exception as e:
+        print(f"Make.com dispatch warning for {slug}: {e}")
+
+    # 5. Log Success
     now_str = datetime.datetime.utcnow().isoformat()
     log_entry = {
         "index": next_post["index"],

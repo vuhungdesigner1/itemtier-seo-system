@@ -14,7 +14,7 @@ import json
 import os
 import requests
 
-DEFAULT_WEBHOOK_URL = os.environ.get("MAKE_WEBHOOK_URL", "")
+DEFAULT_WEBHOOK_URL = os.environ.get("MAKE_WEBHOOK_URL", "https://hook.us2.make.com/keewotj47um2768uh6qpnhisqu2cupjk")
 
 def dispatch_to_make(webhook_url, payload):
     if not webhook_url:

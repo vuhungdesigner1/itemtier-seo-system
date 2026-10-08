@@ -1,0 +1,38 @@
+name: Scheduled 72h Legacy Overhaul Pacer
+
+on:
+  schedule:
+    # Runs every 35 minutes (approximately 41-42 posts per day across 72 hours)
+    - cron: '*/35 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  overhaul-pacer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Dispatch Next Post Overhaul
+        run: |
+          python scripts/cloud_overhaul_pacer.py
+
+      - name: Commit and Push Execution Log
+        run: |
+          git config --global user.name 'ItemTier Autonomous Agent'
+          git config --global user.email 'agent@itemtier.com'
+          git add data/legacy_execution_log.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Overhaul: Update legacy post execution log [skip ci]" && git push)

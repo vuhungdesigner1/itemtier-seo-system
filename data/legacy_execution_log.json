@@ -1,0 +1,24 @@
+[
+  {
+    "index": 0,
+    "id": 467,
+    "slug": "airpods-max-vs-sony-wh1000xm5",
+    "title": "AirPods Max vs Sony WH-1000XM5: The Brutal Lab Comparison",
+    "primary_keyword": "airpods max vs sony wh-1000xm5",
+    "updated_at": "2026-10-08T13:48:00",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
+  },
+  {
+    "index": 1,
+    "id": 493,
+    "slug": "notion-vs-obsidian-2",
+    "title": "Notion vs Obsidian: The Ultimate Knowledge Worker Showdown",
+    "primary_keyword": "notion vs obsidian",
+    "updated_at": "2026-10-08T14:34:37.505330",
+    "status": "success",
+    "is_duplicate": true,
+    "redirect_target": "https://itemtier.com/notion-vs-obsidian/"
+  }
+]

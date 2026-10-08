@@ -108,5 +108,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 11,
+    "id": 469,
+    "slug": "macbook-pro-16-m3-vs-dell-xps-16",
+    "title": "MacBook Pro 16 M3 vs. Dell XPS 16",
+    "primary_keyword": "macbook pro 16 m3 vs dell xps 16",
+    "updated_at": "2026-10-08T20:09:23.015210",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

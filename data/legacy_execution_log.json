@@ -185,5 +185,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 18,
+    "id": 497,
+    "slug": "ring-pro-2-vs-nest-doorbell-2",
+    "title": "Ring Pro 2 vs Google Nest Doorbell: Ultimate Front-Door Guardian Test",
+    "primary_keyword": "ring pro 2 vs nest doorbell",
+    "updated_at": "2026-10-08T23:46:05.043623",
+    "status": "success",
+    "is_duplicate": true,
+    "redirect_target": "https://itemtier.com/ring-pro-2-vs-nest-doorbell/"
   }
 ]

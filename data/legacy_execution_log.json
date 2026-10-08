@@ -152,5 +152,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 15,
+    "id": 496,
+    "slug": "airpods-max-vs-sony-wh1000xm5-2",
+    "title": "Apple AirPods Max vs Sony WH-1000XM5: Luxury vs Performance",
+    "primary_keyword": "airpods max vs sony wh1000xm5",
+    "updated_at": "2026-10-08T22:08:15.258655",
+    "status": "success",
+    "is_duplicate": true,
+    "redirect_target": "https://itemtier.com/airpods-max-vs-sony-wh1000xm5/"
   }
 ]

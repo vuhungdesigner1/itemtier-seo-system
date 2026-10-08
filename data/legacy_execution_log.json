@@ -53,5 +53,16 @@
     "status": "success",
     "is_duplicate": true,
     "redirect_target": "https://itemtier.com/chatgpt-plus-vs-claude-pro/"
+  },
+  {
+    "index": 5,
+    "id": 608,
+    "slug": "perplexity-pro-vs-chatgpt-daily-workflow",
+    "title": "I Replaced ChatGPT with Perplexity Pro for Research: Here is What Happened",
+    "primary_keyword": "perplexity pro vs chatgpt daily workflow",
+    "updated_at": "2026-10-08T17:48:10.648375",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

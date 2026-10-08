@@ -92,6 +92,25 @@ Mọi quyết định điều hành, lệnh tác chiến và tiêu chuẩn nghi�
 └─────────────────────┴────────────────────────────────────────────────────────────┘
 ```
 
+## 3.0. ĐIỀU LỆ KỶ LUẬT TỐI CAO: NGUYÊN TẮC MINH BẠCH BÁO CÁO & PHÂN ĐỊNH 3 TRẠNG THÁI THỰC THI (STRICT 3-STATE EXECUTIVE TRUTH & PROOF PROTOCOL)
+*(Sắc lệnh kỷ luật trực tiếp từ Chủ tịch HĐQT — Bắt buộc áp dụng cho CEO và toàn bộ 3 Khối Phòng ban)*
+
+Cấm tuyệt đối mọi hình thức báo cáo mập mờ, phóng đại, nói chung chung hoặc biến "ý tưởng/giải pháp trên giấy" thành "việc đã làm xong". Mọi phát ngôn, báo cáo giao ban, và biên bản giao việc phải phân định rạch ròi thành 3 trạng thái độc lập:
+
+1. **TRẠNG THÁI 1: [ĐỀ XUẤT / PHƯƠNG PHÁP] (PROPOSAL & METHODOLOGY):**
+   - Định nghĩa: Các giải pháp kỹ thuật, ý tưởng kiến trúc, kế hoạch phân phối hoặc đề xuất triển khai chưa được thực thi vào mã nguồn/hệ thống.
+   - Quy chuẩn báo cáo: Phải ghi rõ là "Phương án đề xuất", không được dùng các từ ngữ gây hiểu lầm như "hệ thống đã xử lý", "đã cập nhật".
+2. **TRẠNG THÁI 2: [ĐANG TRIỂN KHAI / HÀNG ĐỢI] (IN-PROGRESS & QUEUED):**
+   - Định nghĩa: Công việc đang chạy, mã nguồn đã viết nhưng chưa kiểm thử xong, hoặc các bài viết đang nằm trong hàng đợi chờ phát hành theo lịch trình.
+   - Quy chuẩn báo cáo: Phải ghi rõ tiến độ %, số lượng bài còn tồn trong hàng đợi (Queue), thời gian dự kiến kích hoạt.
+3. **TRẠNG THÁI 3: [ĐÃ HOÀN THÀNH - CÓ MINH CHỨNG KIỂM TRA ĐƯỢC] (ACCOMPLISHED & VERIFIED WITH PROOF):**
+   - Định nghĩa: Công việc đã hoàn tất 100%, có sản phẩm thực tế có thể sờ, thấy và đo lường được ngay lập tức.
+   - Quy chuẩn báo cáo: **BẮT BUỘC PHẢI ĐÍNH KÈM BẰNG CHỨNG**:
+     - Mã Git Commit Hash thật (cả trên Local và Remote GitHub).
+     - File dữ liệu / File Excel / Log JSON thật có đường dẫn chính xác.
+     - Live URL thật trả về mã HTTP 200 và kết quả quét mã nguồn DOM (Hộp AEO, Bảng Tier, Rank Math Meta).
+   - **Xử phạt:** Bất kỳ cá nhân hoặc phòng ban nào báo cáo là "Đã hoàn thành" mà không xuất trình được bằng chứng kiểm chứng độc lập sẽ bị xử lý kỷ luật nghiêm khắc theo quy chế doanh nghiệp.
+
 ### 3.1. CEO / PM Dự án (Quản trị luồng & Batching Controller)
 - **Thời điểm hành động:** Kích hoạt ngay khi nhận kế hoạch đại tu từ HĐQT hoặc khởi động đợt cuốn chiếu mới theo lịch tuần.
 - **Quy chế điều hành:**

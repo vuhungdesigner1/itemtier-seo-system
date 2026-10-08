@@ -163,5 +163,16 @@
     "status": "success",
     "is_duplicate": true,
     "redirect_target": "https://itemtier.com/airpods-max-vs-sony-wh1000xm5/"
+  },
+  {
+    "index": 16,
+    "id": 609,
+    "slug": "keychron-q1-pro-mechanical-keyboard-review",
+    "title": "6 Months with the Keychron Q1 Pro: Is a $200 Custom Keyboard Worth It?",
+    "primary_keyword": "keychron q1 pro mechanical keyboard review",
+    "updated_at": "2026-10-08T22:47:57.108336",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

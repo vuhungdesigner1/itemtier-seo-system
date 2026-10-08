@@ -42,5 +42,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 4,
+    "id": 494,
+    "slug": "chatgpt-plus-vs-claude-pro-2",
+    "title": "ChatGPT Plus vs Claude Pro: Which AI Subscription Wins in 2024?",
+    "primary_keyword": "chatgpt plus vs claude pro",
+    "updated_at": "2026-10-08T17:21:28.709273",
+    "status": "success",
+    "is_duplicate": true,
+    "redirect_target": "https://itemtier.com/chatgpt-plus-vs-claude-pro/"
   }
 ]

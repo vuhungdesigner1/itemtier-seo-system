@@ -64,5 +64,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 6,
+    "id": 475,
+    "slug": "midjourney-vs-dall-e-3",
+    "title": "Midjourney vs DALL-E 3: Which AI Visual Generator Wins?",
+    "primary_keyword": "midjourney vs dall e 3",
+    "updated_at": "2026-10-08T18:08:09.285037",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

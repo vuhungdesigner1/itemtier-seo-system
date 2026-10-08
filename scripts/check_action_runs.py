@@ -16,11 +16,9 @@ res = requests.get(url, headers=headers)
 if res.status_code == 200:
     runs = res.json().get('workflow_runs', [])
     print(f'Total runs found on GitHub Cloud: {len(runs)}')
-    for r in runs[:3]:
-        print(f"[*] Run ID: {r['id']}")
+    for r in runs[:5]:
+        print(f"[*] Run ID: {r['id']} | Event: {r.get('event')} | Status: {r['status']} | Conclusion: {r['conclusion']}")
         print(f"    Name: {r['name']}")
-        print(f"    Status: {r['status']}")
-        print(f"    Conclusion: {r['conclusion']}")
         print(f"    URL: {r['html_url']}")
 else:
     print('Failed to fetch runs:', res.status_code)

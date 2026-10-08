@@ -1,0 +1,16 @@
+import pandas as pd
+df = pd.read_csv('data/ITEMTIER_126_LEGACY_OVERHAUL_MASTER_REPORT.csv')
+print('Total rows:', len(df))
+print('Total US Search Volume across 126 posts:', f"{df['US_Search_Volume_Monthly'].sum():,}")
+print('\n--- TOPIC CLUSTERS BREAKDOWN ---')
+print(df['Category_Cluster'].value_counts().to_string())
+print('\n--- CANNIBALIZATION ACTIONS ---')
+print(df['Cannibalization_Strategy'].value_counts().to_string())
+print('\n--- SAMPLE 12 POSTS WITH INTERNAL LINKS ---')
+for idx, row in df.head(12).iterrows():
+    print(f"{row['STT']}. [ID {row['Post_ID']}] {row['Slug']}")
+    print(f"   KW: '{row['Primary_Keyword_GKP']}' (US Vol: {row['US_Search_Volume_Monthly']:,}/mo)")
+    print(f"   Upward: {row['Upward_Internal_Link_Pillar']}")
+    print(f"   Sideward: {row['Sideward_Internal_Link_Peer']}")
+    print(f"   Schedule: {row['Batch_Day']} | {row['Scheduled_Time_EST']} | Status: {row['Status']}")
+    print()

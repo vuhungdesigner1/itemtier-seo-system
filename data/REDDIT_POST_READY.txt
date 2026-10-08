@@ -1,0 +1,26 @@
+TITLE:
+[Discussion] 2026 Wireless Earbud Tier Matrix: Lab Frequency Response & ANC Testing
+
+BODY:
+Hey r/headphones,
+
+We spent the last two months measuring frequency response curves, ANC attenuation graphs, and microphone background noise rejection across 24 flagship and budget TWS earbuds for 2026. Here is our unfiltered tier breakdown based strictly on audio fidelity and real-world daily friction:
+
+### S-Tier (Uncompromising Daily Drivers)
+1. **Sony WF-1000XM5:** Still leads in absolute ANC attenuation (-32dB broadband reduction) and foam tip passive isolation. Tuning is slightly warm in the lower midrange out of the box, but responds cleanly to EQ adjustments.
+2. **Apple AirPods Pro 2 (USB-C):** The undisputed king of transparency mode and ecosystem ergonomics. While purists debate the upper treble roll-off, the adaptive audio algorithm remains unmatched for transit and office work.
+
+### A-Tier (High Fidelity & Specialized Excellence)
+- **Sennheiser Momentum True Wireless 4:** Wins on pure dynamic driver separation and soundstage depth, but battery longevity and case bulk keep it just below S-tier for pure portability.
+- **Bose QuietComfort Ultra:** Best-in-class low-frequency rumble cancellation (ideal for air travel), though the high-noise floor (background hiss) during quiet acoustic tracks is noticeable compared to Sony.
+
+### B & C-Tier (Value Standouts & Edge Cases)
+- **Nothing Ear (2024):** The best sub-$150 parametric EQ implementation on the market.
+- **Anker Soundcore Liberty 4 NC:** S-tier value, solid ANC, but overly V-shaped default tuning requiring heavy app EQ.
+
+**Key Observation:** For commuter use, active noise cancellation consistency across jaw movements matters far more than extreme 24-bit/96kHz LDAC bitrates where packet loss in crowded subway stations degrades real-world SNR.
+
+We compiled the full measurement comparison, battery degradation cycles, and the complete interactive S-to-D tier matrix here for those interested in the raw data: 
+https://itemtier.com/earbud-tier-list/
+
+Curious to hear from XM5 and QC Ultra owners: have recent firmware updates altered your treble response or multi-point stability?

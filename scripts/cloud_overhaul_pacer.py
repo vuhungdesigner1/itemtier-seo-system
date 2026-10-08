@@ -86,6 +86,9 @@ def main():
     for key, val in meta_updates:
         try:
             requests.post(RM_META_URL, auth=AUTH, headers=rm_headers, data={"objectID": post_id, "objectType": "post", "metaKey": key, "metaValue": val}, timeout=15)
+        except Exception as e:
+            print(f"Rank Math update warning for {key}: {e}")
+
     # 3. Ping Google Fast Indexing / Instant Indexing API
     try:
         fast_indexing_url = "https://itemtier.com/wp-json/rankmath/v1/in/submitUrls"

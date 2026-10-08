@@ -31,5 +31,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 3,
+    "id": 450,
+    "slug": "notion-vs-obsidian",
+    "title": "Notion vs Obsidian: Cloud Database vs Local Markdown (2026)",
+    "primary_keyword": "notion vs obsidian",
+    "updated_at": "2026-10-08T17:19:06.600166",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -592,5 +592,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 55,
+    "id": 502,
+    "slug": "asana-vs-monday",
+    "title": "Asana vs Monday.com: Rigid Hierarchies vs Flexible Boards",
+    "primary_keyword": "asana vs monday",
+    "updated_at": "2026-10-09T18:51:46.767838",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

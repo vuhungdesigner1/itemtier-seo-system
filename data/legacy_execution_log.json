@@ -317,5 +317,16 @@
     "status": "success",
     "is_duplicate": true,
     "redirect_target": "https://itemtier.com/best-ai-video-generators/"
+  },
+  {
+    "index": 30,
+    "id": 498,
+    "slug": "macbook-air-m3-vs-dell-xps-13",
+    "title": "MacBook Air M3 vs Dell XPS 13: Fanless Efficiency Tested",
+    "primary_keyword": "macbook air m3 vs dell xps 13",
+    "updated_at": "2026-10-09T05:48:38.263040",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

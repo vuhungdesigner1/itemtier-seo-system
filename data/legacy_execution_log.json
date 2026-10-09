@@ -680,5 +680,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 63,
+    "id": 857,
+    "slug": "comfyui-cloud-review",
+    "title": "ComfyUI Cloud Review (2026): Is Comfy.org Worth $16/mo for AI Art?",
+    "primary_keyword": "comfyui cloud review",
+    "updated_at": "2026-10-09T22:47:31.399223",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

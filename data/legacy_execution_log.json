@@ -482,5 +482,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 45,
+    "id": 714,
+    "slug": "mistral-le-chat-backend-dev-review",
+    "title": "Mistral Le Chat for Backend Dev Review: Can It Replace ChatGPT and Claude?",
+    "primary_keyword": "mistral le chat backend dev review",
+    "updated_at": "2026-10-09T13:49:51.533518",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

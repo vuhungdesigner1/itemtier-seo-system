@@ -229,5 +229,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 22,
+    "id": 441,
+    "slug": "atk-vs-razer-gaming-mouse",
+    "title": "Razer vs. ATK Blazing Sky: Ultimate Esports Mouse &#038; Pad Setup",
+    "primary_keyword": "atk vs razer gaming mouse",
+    "updated_at": "2026-10-09T01:49:19.950132",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

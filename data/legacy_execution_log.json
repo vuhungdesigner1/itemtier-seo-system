@@ -515,5 +515,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 48,
+    "id": 604,
+    "slug": "whoop-4-vs-oura-ring-gen-3-sleep-tracking",
+    "title": "Whoop 4.0 vs Oura Ring Gen 3: Better Sleep Data for Biohackers?",
+    "primary_keyword": "whoop 4 vs oura ring gen 3 sleep tracking",
+    "updated_at": "2026-10-09T15:08:53.043108",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

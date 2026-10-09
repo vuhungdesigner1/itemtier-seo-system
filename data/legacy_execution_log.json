@@ -537,5 +537,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 50,
+    "id": 602,
+    "slug": "jira-vs-linear-for-engineering-teams",
+    "title": "Jira vs Linear: Why Scaling Engineering Teams Are Migrating",
+    "primary_keyword": "jira vs linear for engineering teams",
+    "updated_at": "2026-10-09T16:08:53.497417",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

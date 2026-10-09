@@ -504,5 +504,16 @@
     "status": "success",
     "is_duplicate": true,
     "redirect_target": "https://itemtier.com/ahrefs-vs-semrush/"
+  },
+  {
+    "index": 47,
+    "id": 451,
+    "slug": "best-ergonomic-standing-desks",
+    "title": "Top Ergonomic Standing Desks: Uplift V2 vs Jarvis vs FlexiSpot",
+    "primary_keyword": "best ergonomic standing desks",
+    "updated_at": "2026-10-09T14:51:41.782625",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

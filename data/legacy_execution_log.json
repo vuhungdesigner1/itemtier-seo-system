@@ -636,5 +636,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 59,
+    "id": 698,
+    "slug": "drone-hacks-vs-drone-tweaks",
+    "title": "Drone Hacks vs Drone Tweaks: 8 Crucial Tests for DJI Mods",
+    "primary_keyword": "drone hacks vs drone tweaks",
+    "updated_at": "2026-10-09T20:48:29.178140",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

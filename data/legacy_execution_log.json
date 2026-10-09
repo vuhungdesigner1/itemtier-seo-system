@@ -306,5 +306,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 29,
+    "id": 524,
+    "slug": "best-ai-video-generators-2",
+    "title": "Best AI Video Generators for Content Creators Ranked (2025)",
+    "primary_keyword": "best ai video generators",
+    "updated_at": "2026-10-09T05:08:36.051698",
+    "status": "success",
+    "is_duplicate": true,
+    "redirect_target": "https://itemtier.com/best-ai-video-generators/"
   }
 ]

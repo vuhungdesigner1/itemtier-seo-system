@@ -647,5 +647,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 60,
+    "id": 885,
+    "slug": "cursor-vs-windsurf",
+    "title": "Cursor vs Windsurf (2026): The Ultimate AI Coding IDE Tier List Comparison",
+    "primary_keyword": "cursor vs windsurf",
+    "updated_at": "2026-10-09T21:07:31.565752",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

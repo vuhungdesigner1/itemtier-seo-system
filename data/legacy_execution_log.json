@@ -493,5 +493,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 46,
+    "id": 113,
+    "slug": "ahrefs-vs-semrush-review-tier-list-ranking",
+    "title": "Ahrefs vs Semrush: Backlink Precision vs All-In-One SEO",
+    "primary_keyword": "ahrefs vs semrush review tier list ranking",
+    "updated_at": "2026-10-09T14:10:04.252529",
+    "status": "success",
+    "is_duplicate": true,
+    "redirect_target": "https://itemtier.com/ahrefs-vs-semrush/"
   }
 ]

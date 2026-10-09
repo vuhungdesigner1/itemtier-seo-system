@@ -570,5 +570,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 53,
+    "id": 873,
+    "slug": "calibrate-induction-cooktop-temperature",
+    "title": "How to Calibrate Induction Cooktop Temperature Variance",
+    "primary_keyword": "calibrate induction cooktop temperature",
+    "updated_at": "2026-10-09T17:47:32.072218",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

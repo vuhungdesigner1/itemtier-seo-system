@@ -218,5 +218,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 21,
+    "id": 414,
+    "slug": "atk-vs-keychron-keyboard",
+    "title": "Keychron vs. ATK Keyboard: Best Hall Effect Magnetic Switch Test",
+    "primary_keyword": "atk vs keychron keyboard",
+    "updated_at": "2026-10-09T01:16:19.868685",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

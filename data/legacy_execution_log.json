@@ -559,5 +559,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 52,
+    "id": 874,
+    "slug": "zone-suction-mapping-home-assistant",
+    "title": "How to Set Up Zone-Specific Suction Power Mapping in Home Assistant",
+    "primary_keyword": "zone suction mapping home assistant",
+    "updated_at": "2026-10-09T17:08:08.112428",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

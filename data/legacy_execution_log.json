@@ -966,5 +966,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 89,
+    "id": 868,
+    "slug": "fix-usbc-power-delivery-throttling",
+    "title": "Fix USB-C Power Delivery Throttling on 49-Inch Ultrawides",
+    "primary_keyword": "fix usbc power delivery throttling",
+    "updated_at": "2026-10-10T11:45:42.596895",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

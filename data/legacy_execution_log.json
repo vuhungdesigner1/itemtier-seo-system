@@ -1098,5 +1098,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 101,
+    "id": 644,
+    "slug": "fix-outdoor-smart-camera-wifi-dead-zones",
+    "title": "How to Eliminate Wi-Fi Dead Zones for Outdoor Cameras",
+    "primary_keyword": "fix outdoor smart camera wifi dead zones",
+    "updated_at": "2026-10-10T17:44:35.532959",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -1120,5 +1120,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 103,
+    "id": 700,
+    "slug": "drone-tweaks-update-guide",
+    "title": "Drone Tweaks Update Guide: 5 Steps to Keep FCC Active",
+    "primary_keyword": "drone tweaks update guide",
+    "updated_at": "2026-10-10T19:07:26.401433",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

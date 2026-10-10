@@ -1109,5 +1109,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 102,
+    "id": 635,
+    "slug": "readwise-reader-knowledge-base-setup",
+    "title": "Building a Zero-Maintenance Knowledge Base in Reader by Readwise",
+    "primary_keyword": "readwise reader knowledge base setup",
+    "updated_at": "2026-10-10T18:49:46.032697",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

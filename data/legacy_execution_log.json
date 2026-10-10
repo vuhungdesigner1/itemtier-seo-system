@@ -922,5 +922,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 85,
+    "id": 872,
+    "slug": "route-stripe-webhooks-airtable-n8n",
+    "title": "How to Route Stripe Webhooks to Airtable via Self-Hosted n8n",
+    "primary_keyword": "route stripe webhooks airtable n8n",
+    "updated_at": "2026-10-10T09:46:42.246374",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -944,5 +944,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 87,
+    "id": 633,
+    "slug": "anker-solix-c1000-portable-power-station-test",
+    "title": "Anker Solix C1000 Off-Grid Test: Does It Really Hold Up?",
+    "primary_keyword": "anker solix c1000 portable power station test",
+    "updated_at": "2026-10-10T10:45:33.045580",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

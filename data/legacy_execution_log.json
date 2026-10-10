@@ -812,5 +812,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 75,
+    "id": 641,
+    "slug": "automate-b2b-prospect-enrichment-clay-google-sheets",
+    "title": "How to Automate B2B Prospect Enrichment Using Clay and Google Sheets",
+    "primary_keyword": "automate b2b prospect enrichment clay google sheets",
+    "updated_at": "2026-10-10T04:49:40.212157",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -999,5 +999,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 92,
+    "id": 657,
+    "slug": "repair-robotic-mower-boundary-wire-breaks",
+    "title": "How to Diagnose and Repair Hidden Boundary Wire Breaks",
+    "primary_keyword": "repair robotic mower boundary wire breaks",
+    "updated_at": "2026-10-10T13:08:10.911771",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -834,5 +834,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 77,
+    "id": 746,
+    "slug": "route-home-assistant-logs-grafana",
+    "title": "How to Route Home Assistant Logs to Grafana for Thermal Monitoring",
+    "primary_keyword": "route home assistant logs grafana",
+    "updated_at": "2026-10-10T05:46:33.226026",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

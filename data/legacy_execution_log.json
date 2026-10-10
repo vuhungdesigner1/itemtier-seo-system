@@ -1032,5 +1032,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 95,
+    "id": 670,
+    "slug": "dji-rc2-fcc-mode-guide",
+    "title": "How to Enable DJI RC 2 FCC Mode Permanently: Complete Guide",
+    "primary_keyword": "dji rc2 fcc mode guide",
+    "updated_at": "2026-10-10T14:45:34.931092",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

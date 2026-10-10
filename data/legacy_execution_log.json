@@ -790,5 +790,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 73,
+    "id": 650,
+    "slug": "route-stripe-payment-events-hubspot-make",
+    "title": "How to Route Stripe Payment Events to HubSpot Without Zapier Costs",
+    "primary_keyword": "route stripe payment events hubspot make",
+    "updated_at": "2026-10-10T03:48:32.886818",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

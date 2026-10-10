@@ -889,5 +889,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 82,
+    "id": 651,
+    "slug": "build-automated-weather-aware-drip-irrigation-rachio",
+    "title": "How to Build a Weather-Aware Drip Irrigation System with Rachio",
+    "primary_keyword": "build automated weather aware drip irrigation rachio",
+    "updated_at": "2026-10-10T08:06:26.503880",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

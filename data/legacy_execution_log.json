@@ -713,5 +713,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 66,
+    "id": 621,
+    "slug": "social-media-management-pricing-packages",
+    "title": "How to Structure Social Media Management Pricing Packages",
+    "primary_keyword": "social media management pricing packages",
+    "updated_at": "2026-10-10T00:10:09.927702",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

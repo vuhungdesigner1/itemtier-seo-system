@@ -801,5 +801,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 74,
+    "id": 870,
+    "slug": "local-transcription-whisperx-nvidia",
+    "title": "Run Local WhisperX on NVIDIA GPUs: Fast Offline AI Audio Transcription",
+    "primary_keyword": "local transcription whisperx nvidia",
+    "updated_at": "2026-10-10T04:07:20.158334",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

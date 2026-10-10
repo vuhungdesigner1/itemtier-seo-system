@@ -1065,5 +1065,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 98,
+    "id": 564,
+    "slug": "setup-dual-4k-monitors-macbook-m1-m2-m3",
+    "title": "How to Set Up Dual 4K Displays on Apple Silicon Without Lag",
+    "primary_keyword": "setup dual 4k monitors macbook m1 m2 m3",
+    "updated_at": "2026-10-10T16:05:45.586848",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -1164,5 +1164,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 107,
+    "id": 648,
+    "slug": "fix-robot-vacuum-lidar-sensor-errors",
+    "title": "How to Fix Robot Vacuum LIDAR Sensor Errors &#038; Spin Loops",
+    "primary_keyword": "fix robot vacuum lidar sensor errors",
+    "updated_at": "2026-10-10T21:06:12.688552",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

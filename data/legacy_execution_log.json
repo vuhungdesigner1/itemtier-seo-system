@@ -779,5 +779,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 72,
+    "id": 646,
+    "slug": "sync-kindle-highlights-to-todoist-action-items",
+    "title": "How to Sync Kindle Highlights to Todoist for Daily Action Items",
+    "primary_keyword": "sync kindle highlights to todoist action items",
+    "updated_at": "2026-10-10T03:07:19.698820",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

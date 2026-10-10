@@ -1186,5 +1186,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 109,
+    "id": 699,
+    "slug": "dji-mini-4k-fcc-unlock",
+    "title": "Drone Tweaks Mini 4K: 5 Steps to Unlock DJI FCC Range",
+    "primary_keyword": "dji mini 4k fcc unlock",
+    "updated_at": "2026-10-10T22:06:03.875932",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -955,5 +955,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 88,
+    "id": 562,
+    "slug": "automate-readwise-to-obsidian-sync-guide",
+    "title": "How to Build an Automated Readwise to Obsidian Workflow",
+    "primary_keyword": "automate readwise to obsidian sync guide",
+    "updated_at": "2026-10-10T11:06:00.950260",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

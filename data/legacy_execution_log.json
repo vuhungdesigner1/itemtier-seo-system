@@ -878,5 +878,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 81,
+    "id": 871,
+    "slug": "extend-thread-network-range-outdoor",
+    "title": "How to Extend Thread Smart Home Range to Outdoor Sheds",
+    "primary_keyword": "extend thread network range outdoor",
+    "updated_at": "2026-10-10T07:46:00.794093",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

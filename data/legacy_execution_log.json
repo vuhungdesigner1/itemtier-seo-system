@@ -1054,5 +1054,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 97,
+    "id": 645,
+    "slug": "prevent-thunderbolt-dock-overheating-screen-flicker",
+    "title": "How to Prevent Thunderbolt Dock Overheating &#038; Screen Flicker",
+    "primary_keyword": "prevent thunderbolt dock overheating screen flicker",
+    "updated_at": "2026-10-10T15:46:04.476882",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

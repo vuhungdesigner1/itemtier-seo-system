@@ -988,5 +988,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 91,
+    "id": 656,
+    "slug": "fix-matter-smart-plug-disconnects-apple-home-alexa",
+    "title": "How to Fix Matter Smart Plug Dropouts on Apple Home &#038; Alexa",
+    "primary_keyword": "fix matter smart plug disconnects apple home alexa",
+    "updated_at": "2026-10-10T12:52:12.855923",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

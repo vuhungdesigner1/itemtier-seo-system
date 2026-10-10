@@ -933,5 +933,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 86,
+    "id": 636,
+    "slug": "fix-bluetooth-headphone-audio-lag-video-editing",
+    "title": "How to Bypass Audio Delay on Bluetooth Headphones for Video Editing",
+    "primary_keyword": "fix bluetooth headphone audio lag video editing",
+    "updated_at": "2026-10-10T10:06:10.892614",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

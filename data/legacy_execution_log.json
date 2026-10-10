@@ -856,5 +856,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 79,
+    "id": 752,
+    "slug": "eliminate-audio-stutters-dante-via",
+    "title": "How to Eliminate Micro-Stutters in Dante Via Real-Time Audio",
+    "primary_keyword": "eliminate audio stutters dante via",
+    "updated_at": "2026-10-10T06:52:15.291902",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

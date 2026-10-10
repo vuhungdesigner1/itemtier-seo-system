@@ -1175,5 +1175,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 108,
+    "id": 571,
+    "slug": "client-feedback-social-media",
+    "title": "Stop Using Excel and Notion for Client Feedback (SMM Guide)",
+    "primary_keyword": "client feedback social media",
+    "updated_at": "2026-10-10T21:45:29.426626",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -867,5 +867,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 80,
+    "id": 643,
+    "slug": "fix-obs-studio-usb-microphone-audio-sync",
+    "title": "How to Fix Audio Sync Delay in OBS Studio for USB Mics",
+    "primary_keyword": "fix obs studio usb microphone audio sync",
+    "updated_at": "2026-10-10T07:07:39.081024",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

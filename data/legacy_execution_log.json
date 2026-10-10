@@ -900,5 +900,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 83,
+    "id": 563,
+    "slug": "fix-home-assistant-zigbee-network-disconnects",
+    "title": "Fix Home Assistant Zigbee Drops Without Buying New Hardware",
+    "primary_keyword": "fix home assistant zigbee network disconnects",
+    "updated_at": "2026-10-10T08:46:41.409756",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

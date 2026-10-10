@@ -757,5 +757,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 70,
+    "id": 634,
+    "slug": "fix-sonos-disconnecting-mesh-wifi",
+    "title": "How to Stop Sonos Speakers from Randomly Disconnecting on Mesh Wi-Fi",
+    "primary_keyword": "fix sonos disconnecting mesh wifi",
+    "updated_at": "2026-10-10T02:07:25.027272",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

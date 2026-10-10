@@ -1131,5 +1131,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 104,
+    "id": 671,
+    "slug": "dji-mini-4-pro-fcc-mode",
+    "title": "DJI Mini 4 Pro FCC Mode: Maximize Range in CE Regions (2026)",
+    "primary_keyword": "dji mini 4 pro fcc mode",
+    "updated_at": "2026-10-10T19:44:38.759084",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

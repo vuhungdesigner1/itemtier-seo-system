@@ -1197,5 +1197,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 110,
+    "id": 588,
+    "slug": "social-media-reporting-templates",
+    "title": "How to Create Social Media Reports That Retain Clients (Templates inside)",
+    "primary_keyword": "social media reporting templates",
+    "updated_at": "2026-10-10T22:45:10.799434",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -911,5 +911,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 84,
+    "id": 655,
+    "slug": "build-internal-tools-claude-artifacts-tutorial",
+    "title": "How to Build Interactive Internal Tools in Claude 3.5 Sonnet",
+    "primary_keyword": "build internal tools claude artifacts tutorial",
+    "updated_at": "2026-10-10T09:06:16.211997",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -1241,5 +1241,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 114,
+    "id": 594,
+    "slug": "shareable-social-media-analytics-report",
+    "title": "How to Safely Share Live Social Media Reports Without Client Logins",
+    "primary_keyword": "shareable social media analytics report",
+    "updated_at": "2026-10-11T00:55:05.802540",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

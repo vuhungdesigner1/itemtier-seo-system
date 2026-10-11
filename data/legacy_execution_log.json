@@ -1340,5 +1340,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 123,
+    "id": 618,
+    "slug": "how-to-start-a-social-media-agency",
+    "title": "How to Start a Social Media Agency",
+    "primary_keyword": "how to start a social media agency",
+    "updated_at": "2026-10-11T05:07:28.264958",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

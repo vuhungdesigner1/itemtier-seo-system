@@ -1296,5 +1296,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 119,
+    "id": 477,
+    "slug": "drone-tweaks-signal-optimization-guide",
+    "title": "Drone Tweaks Review: How to Optimize Flight Signal &#038; Transmission Safety",
+    "primary_keyword": "drone tweaks signal optimization guide",
+    "updated_at": "2026-10-11T03:07:39.495374",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

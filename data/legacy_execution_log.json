@@ -1252,5 +1252,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 115,
+    "id": 597,
+    "slug": "ai-social-media-workflow",
+    "title": "How to Build an AI-Powered Social Media Workflow from Scratch (2026)",
+    "primary_keyword": "ai social media workflow",
+    "updated_at": "2026-10-11T01:09:30.905207",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

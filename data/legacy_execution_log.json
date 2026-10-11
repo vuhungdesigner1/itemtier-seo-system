@@ -1285,5 +1285,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 118,
+    "id": 585,
+    "slug": "multi-platform-video-scheduler",
+    "title": "How to Schedule Short-Form Videos Simultaneously (TikTok, Reels, Shorts)",
+    "primary_keyword": "multi platform video scheduler",
+    "updated_at": "2026-10-11T02:47:59.500047",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

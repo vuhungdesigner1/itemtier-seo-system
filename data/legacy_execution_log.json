@@ -1318,5 +1318,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 121,
+    "id": 565,
+    "slug": "social-media-approval-workflow",
+    "title": "The Ultimate Social Media Approval Workflow for SMM Agencies (2026 Guide)",
+    "primary_keyword": "social media approval workflow",
+    "updated_at": "2026-10-11T04:07:31.829899",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]

@@ -1329,5 +1329,16 @@
     "status": "success",
     "is_duplicate": false,
     "redirect_target": null
+  },
+  {
+    "index": 122,
+    "id": 624,
+    "slug": "social-media-client-onboarding-checklist",
+    "title": "The Ultimate Social Media Client Onboarding Checklist",
+    "primary_keyword": "social media client onboarding checklist",
+    "updated_at": "2026-10-11T04:48:45.563905",
+    "status": "success",
+    "is_duplicate": false,
+    "redirect_target": null
   }
 ]
